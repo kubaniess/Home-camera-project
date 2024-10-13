@@ -4,8 +4,8 @@
 #define CAMERA_MODEL_AI_THINKER // Has PSRAM
 #include "camera_pins.h"
 
-const char* ssid = "KubaWIFI";
-const char* password = "Fontys123";
+const char* ssid = "Ziggo2155398";
+const char* password = "Qp8gsrpqbndm";
 
 void startCameraServer();
 
